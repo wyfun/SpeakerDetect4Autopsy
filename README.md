@@ -2,7 +2,7 @@
 `SpeakerDetect` is an open-source program written in Python for speaker diarization that makes use of the `pyannote.audio` library. 
 
 <p align="center">
- <a href="https://www.youtube.com/watch?v=37R_R82lfwA"></a>
+ <a href="https://www.youtube.com/watch?v=_2stdNm9K1o"><img src="https://i9.ytimg.com/vi_webp/_2stdNm9K1o/mq1.webp?sqp=CJyTxqUG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBkgXShyMA8=&rs=AOn4CLBunIFEjTiW64K9GpcXKoUVnxzF0g"></a>
 </p>
 
 1. install python 3.9 visit https://www.python.org/downloads/release/python-390/ for download
